@@ -3,15 +3,14 @@
 <div align='center'>
   <h1>Hi there👋 I'm Julia👩‍💻</h1> 
 
-  <p>Frontend-developer.</p>
+  <p>Frontend-developer from Russia.</p>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaPalna&hide_progress=true_private=true&theme=dark)
 
   <p>
     <a href="https://codepen.io/juliapalna/" style="max-width:100px">
       <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" style="display: inline-block"/>
     </a> 
-  </p>
-  
-  <p>
     <a href="https://codesandbox.io/u/palna.julia/">
       <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" style="max-width: 100%"/>
     </a>
