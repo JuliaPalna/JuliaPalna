@@ -8,7 +8,7 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaPalna&hide_progress=true_private=true&theme=dark)
 
   <p>
-    <a href="\https://codepen.io/juliapalna/pens/public" style="max-width:100px">
+    <a href="\https://codepen.io/juliapalna/" style="max-width:100px">
       <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" style="display: inline-block"/>
     </a> 
     <a href="https://codesandbox.io/u/palna.julia/">
