@@ -33,7 +33,7 @@
     <ul>
       <li>
         <span>💻 studying</span><br>
-        <span>📆 2022 - moment</span><br>
+        <span>📆 2023 - moment</span><br>
         <span>✏️ I practice my skills</span>
       </li>
     </ul>
