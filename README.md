@@ -33,15 +33,10 @@
     <ul>
       <li>
         <span>💻 studying</span><br>
-        <span>📆 2023 - moment</span><br>
+        <span>📆 2024 - moment</span><br>
         <span>✏️ I practice my skills</span>
       </li>
     </ul>
-    <p>More: 
-      <a href="https://nn.hh.ru/resume/ffa9822eff0bf23bd30039ed1f68345a61326a">
-       <span>headhunter</span>
-      </a>
-    </p>
 </details>
 
 
