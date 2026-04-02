@@ -25,15 +25,14 @@
     <ul>
       <li><span>JavaScript, React, TypeScript</span></li>
       <li><span>HTML, CSS, ES6, Sass/SCSS</span></li>
-      <li><span>Webpack, Gulp</span></li>
-      <li><span>Bootstrap, Chakra UI, Figma</span></li>
+      <li><span>Vite, Webpack </span></li>
+      <li><span>Tailwind, Bootstrap, Chakra UI, Figma</span></li>
       <li><span>GitHub, Git</span></li>
     </ul>
   <h2>Experience</h2>
     <ul>
       <li>
         <span>💻 studying</span><br>
-        <span>📆 2024 - moment</span><br>
         <span>✏️ I practice my skills</span>
       </li>
     </ul>
