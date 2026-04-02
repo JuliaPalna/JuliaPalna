@@ -3,9 +3,7 @@
 <div align='center'>
   <h1>Hi there👋 I'm Julia👩‍💻</h1> 
 
-  <p>Frontend-developer from Russia.</p>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaPalna&hide_progress=true_private=true&theme=dark)
+  <p>Frontend-developer</p>
 
   <p>
     <a href="https://codepen.io/juliapalna/" style="max-width:100px">
